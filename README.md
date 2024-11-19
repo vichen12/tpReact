@@ -17,7 +17,7 @@ Instrucciones para Ejecutar el Proyecto
 1. Clonar el Repositorio
 clona el repositorio :
 
-bash
+https://github.com/vichen12/tpReact.git
 
 2. Instalar Dependencias
 Ingresa al directorio del proyecto y ejecuta:
